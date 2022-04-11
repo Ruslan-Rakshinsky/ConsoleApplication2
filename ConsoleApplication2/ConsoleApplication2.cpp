@@ -1,0 +1,8 @@
+#include <iostream>
+#include "Game.h"
+
+
+int main(int argc, char** argv) {
+	Game snake;
+	return 0;
+}
